@@ -1,2 +1,4 @@
 git  is a version control sysytem.
 git is free software.
+
+creating a new branch is quick.
